@@ -24,7 +24,7 @@ PREMIUM VERSION:
  
 ---
 ![image](https://cdn.discordapp.com/attachments/973337617057869825/1186670718084198460/MA.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+![image](https://cdn.discordapp.com/attachments/973337617057869825/1186673419983540324/MATLEOX.png)
 
 
 <p align="center"> 
