@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
+<a href="https://discord.gg/F5eFWm2xuM">Discord</a> ㅤ•ㅤ
 <a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
 </p>
 </p>
@@ -19,11 +19,11 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="https://gangnuker.org/">WEBSITE</a>
+<a href="https://t.me/johnwatson02">Telegram</a>
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
+![image](https://cdn.discordapp.com/attachments/973337617057869825/1186670718084198460/MA.png)
 ![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
